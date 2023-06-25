@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adobeclone/static/css/main.de175f7f.css",
+    "main.js": "/adobeclone/static/js/main.9ed22208.js",
+    "index.html": "/adobeclone/index.html",
+    "main.de175f7f.css.map": "/adobeclone/static/css/main.de175f7f.css.map",
+    "main.9ed22208.js.map": "/adobeclone/static/js/main.9ed22208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de175f7f.css",
+    "static/js/main.9ed22208.js"
+  ]
+}
